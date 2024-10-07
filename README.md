@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickescolr&label=Profile%20views&color=0e75b6&style=flat" alt="nickescolr" /> </p>
 
-- 🌱 I’m currently learning **React, Node, web development and machine learning**
+- 🌱 I’m currently working in AWS, NextJS and AI. I have interest in web development and Machine Learning 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
