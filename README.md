@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I’m currently working in AWS, NextJS and AI. I have interest in web development and Machine Learning</h3>
+<h3 align="center">I have interest in web development and Machine Learning.</h3>
 
 ###
 
